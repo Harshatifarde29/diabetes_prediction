@@ -1,1 +1,1 @@
-# diabetes_prediction
+diabetes prediction web application using machine learning.
